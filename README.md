@@ -24,7 +24,7 @@
 - @b2network/aa-account-kernel: artifacts for Kernel contracts
 - @b2network/aa-sdk: TS SDK to interact with Kernel accounts
 
-## Deployments
+## Deployed Contracts
 
 ### b2-zkevm-dev (1002)
 
@@ -36,3 +36,12 @@
 | SimpleWeightedECDSAValidator | 0xbf50c52aA54aB01a6a38ac7b4475bdF04e768319 |
 | SCARegistry | 0x231aec684Ad0e63c2F4d176EddCE97A1B666247c |
 | VerifyingPaymaster | 0xe5f2533146207458706Cf485199f84eaF867336F |
+
+## Deployed Services
+
+### b2-zkevm-dev (1002)
+
+| name | url |
+| ---- | --- |
+| AA Bundler | <http://43.157.191.32:14337> |
+| Paymaster Signing Service | <http://43.157.191.32:14338> |

@@ -24,6 +24,10 @@
 - @b2network/aa-account-kernel: artifacts for Kernel contracts
 - @b2network/aa-sdk: TS SDK to interact with Kernel accounts
 
+## Published Go modules (public)
+
+- github.com/b2network/b2-go-aa-utils
+
 ## Deployed Contracts
 
 ### b2-zkevm-dev (1002)

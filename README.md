@@ -35,7 +35,7 @@
 | KernelImplementation | 0x277A60Fe8b476df00295ed8D89aFca39F7f73187 |
 | SimpleWeightedECDSAValidator | 0xbf50c52aA54aB01a6a38ac7b4475bdF04e768319 |
 | SCARegistry | 0x231aec684Ad0e63c2F4d176EddCE97A1B666247c |
-| VerifyingPaymaster | 0xe5f2533146207458706Cf485199f84eaF867336F |
+| VerifyingPaymaster | 0xaD22dd55f343220c634AB94Db20e3C184faAeEB7 |
 
 ## Deployed Services
 

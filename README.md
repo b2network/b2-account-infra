@@ -34,12 +34,12 @@
 
 | name | address |
 | ---- | ------- |
-| EntryPoint | 0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789 |
-| KernelFactory | 0x7516283Ff7090B8286E23a16f8b5b35B3ba541A2 |
-| KernelImplementation | 0x277A60Fe8b476df00295ed8D89aFca39F7f73187 |
-| SimpleWeightedECDSAValidator | 0xbf50c52aA54aB01a6a38ac7b4475bdF04e768319 |
-| SCARegistry | 0x231aec684Ad0e63c2F4d176EddCE97A1B666247c |
-| VerifyingPaymaster | 0xaD22dd55f343220c634AB94Db20e3C184faAeEB7 |
+| EntryPoint (Permissioned) | 0x87fe9653f640f6Fcf6cbd170701cDeEa74949F82 |
+| KernelFactory | 0xAd810e77238c514B8873093F3247ae1c2B60405b |
+| KernelImplementation | 0x51bE203f16b5342A856c5e9e7820f2a7c3CE95B4 |
+| SimpleWeightedECDSAValidator | 0x4a2BAdE1d1efa849ae249720310d50229Be59772 |
+| SCARegistry | 0x69AdF3A3AbfB56Cea28c7F01cCA66000228a11d5 |
+| VerifyingPaymaster | 0xd94db1FE5A113b3467C2267f81485465Fd442ad6 |
 
 ## Deployed Services
 

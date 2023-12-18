@@ -18,11 +18,19 @@
 
 [aa-demos](https://github.com/b2network/aa-demos): examples for aa-sdk usage
 
-## Published NPM packages (hosted on Github Package)
+[b2-aa-extension](https://github.com/b2network/b2-aa-extension): AA wallet proxy to access SCAs on B2 network
+
+[wallet-proxy-rainbowkit-demo](https://github.com/b2network/wallet-proxy-rainbowkit-demo): example to integrate B2 wallet proxy with rainbowkit
+
+## Published NPM packages (public, hosted on NPM registry)
+
+- @b2network/aa-sdk: TS SDK to interact with Kernel accounts
+- @b2network/aa-sdk-core
+
+## Published NPM packages (public, hosted on Github Package registry)
 
 - @b2network/aa-core: artifacts for AA core contracts
 - @b2network/aa-account-kernel: artifacts for Kernel contracts
-- @b2network/aa-sdk: TS SDK to interact with Kernel accounts
 
 ## Published Go modules (public)
 

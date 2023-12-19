@@ -43,10 +43,10 @@
 | name | address |
 | ---- | ------- |
 | EntryPoint (Permissioned) | 0x87fe9653f640f6Fcf6cbd170701cDeEa74949F82 |
-| KernelFactory | 0xAd810e77238c514B8873093F3247ae1c2B60405b |
+| KernelFactory | 0x421Ae640C5E8f305E3B01D4C87Ce65878C5f03DF |
 | KernelImplementation | 0x51bE203f16b5342A856c5e9e7820f2a7c3CE95B4 |
-| SimpleWeightedECDSAValidator | 0x4a2BAdE1d1efa849ae249720310d50229Be59772 |
-| SCARegistry | 0x69AdF3A3AbfB56Cea28c7F01cCA66000228a11d5 |
+| SimpleWeightedECDSAValidator | 0xc5696A835527E8aEe673107Ce00AD740a4353a61 |
+| SCARegistry | 0xc4433cbB8C1e0FE56bb49F4F8A0A639F902bB7Ca |
 | VerifyingPaymaster | 0xd94db1FE5A113b3467C2267f81485465Fd442ad6 |
 
 ## Deployed Services

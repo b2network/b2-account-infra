@@ -49,6 +49,17 @@
 | SCARegistry | 0xc4433cbB8C1e0FE56bb49F4F8A0A639F902bB7Ca |
 | VerifyingPaymaster | 0xd94db1FE5A113b3467C2267f81485465Fd442ad6 |
 
+### b2-zkevm-test (1002)
+
+| name | address |
+| ---- | ------- |
+| EntryPoint (Permissioned) | 0x4271A0C0e0621504A6614d1f94A49A5aa583aCd0 |
+| KernelFactory | 0x188Ebf5e4353bBAb62fD92cbfD02D68C7A77c58C |
+| KernelImplementation | 0x4f20B43473D97bACc081dCFbeECa8B6F9062D320 |
+| SimpleWeightedECDSAValidator | 0xc5696A835527E8aEe673107Ce00AD740a4353a61 |
+| SCARegistry | 0xc4433cbB8C1e0FE56bb49F4F8A0A639F902bB7Ca |
+| VerifyingPaymaster | 0x394d3a8daB310209dB7ee916f01C8c5076181498 |
+
 ## Deployed Services
 
 ### b2-zkevm-dev (1002)
@@ -57,3 +68,10 @@
 | ---- | --- |
 | AA Bundler | <http://43.157.191.32:14337> |
 | Paymaster Signing Service | <http://43.157.191.32:14338> |
+
+### b2-zkevm-test (1002)
+
+| name | url |
+| ---- | --- |
+| AA Bundler | <https://bundler-test.bsquared.network> |
+| Paymaster Signing Service | <https://pm-test.bsquared.network> |

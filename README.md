@@ -20,12 +20,15 @@
 
 [b2-aa-extension](https://github.com/b2network/b2-aa-extension): AA wallet proxy to access SCAs on B2 network
 
+[b2-wallet-connector](https://github.com/b2network/b2-wallet-connector): wagmi connector and rainbow-kit integration
+
 [wallet-proxy-rainbowkit-demo](https://github.com/b2network/wallet-proxy-rainbowkit-demo): example to integrate B2 wallet proxy with rainbowkit
 
 ## Published NPM packages (public, hosted on NPM registry)
 
 - @b2network/aa-sdk: TS SDK to interact with Kernel accounts
-- @b2network/aa-sdk-core
+- @b2network/aa-sdk-core: TS SDK to interact with Kernel accounts
+- @b2network/b2-wallet-connector: wagmi connector and rainbow-kit integration
 
 ## Published NPM packages (public, hosted on Github Package registry)
 

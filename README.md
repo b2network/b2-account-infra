@@ -81,6 +81,6 @@
 
 | name | url |
 | ---- | --- |
-| AA Bundler | <https://xxx.bsquared.network> |
-| AA Guard | <https://xxx.bsquared.network> |
-| AA Registry | <https://xxx.bsquared.network> |
+| AA Bundler | <https://b2-aa-bundler-test.bsquared.network> |
+| AA Guard | <https://b2-aa-guard-test.bsquared.network> |
+| AA Registry | <https://b2-aa-registry-test.bsquared.network> |
